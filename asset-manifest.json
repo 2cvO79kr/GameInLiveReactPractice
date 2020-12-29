@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VigenereGameInLive/static/css/main.499fb0a9.chunk.css",
+    "main.js": "/VigenereGameInLive/static/js/main.0e6151d3.chunk.js",
+    "main.js.map": "/VigenereGameInLive/static/js/main.0e6151d3.chunk.js.map",
+    "runtime-main.js": "/VigenereGameInLive/static/js/runtime-main.bdf2a051.js",
+    "runtime-main.js.map": "/VigenereGameInLive/static/js/runtime-main.bdf2a051.js.map",
+    "static/js/2.69d7fc03.chunk.js": "/VigenereGameInLive/static/js/2.69d7fc03.chunk.js",
+    "static/js/2.69d7fc03.chunk.js.map": "/VigenereGameInLive/static/js/2.69d7fc03.chunk.js.map",
+    "static/js/3.62e35b6a.chunk.js": "/VigenereGameInLive/static/js/3.62e35b6a.chunk.js",
+    "static/js/3.62e35b6a.chunk.js.map": "/VigenereGameInLive/static/js/3.62e35b6a.chunk.js.map",
+    "index.html": "/VigenereGameInLive/index.html",
+    "static/css/main.499fb0a9.chunk.css.map": "/VigenereGameInLive/static/css/main.499fb0a9.chunk.css.map",
+    "static/js/2.69d7fc03.chunk.js.LICENSE.txt": "/VigenereGameInLive/static/js/2.69d7fc03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf2a051.js",
+    "static/js/2.69d7fc03.chunk.js",
+    "static/css/main.499fb0a9.chunk.css",
+    "static/js/main.0e6151d3.chunk.js"
+  ]
+}
