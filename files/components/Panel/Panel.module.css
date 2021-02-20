@@ -1,0 +1,32 @@
+.param {
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    padding-left: 20px;
+    background-color: rgb(150, 177, 223);
+}
+
+.param input,
+.param button
+ {
+    height: 6vh;
+    width: 20vw;
+    margin: 5px;
+    border-radius: 8px;
+    font-size: 4vh;
+}
+
+.panelContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.live {
+    background-color: rgb(4, 243, 100);
+}
+
+.dead {
+    background-color: rgb(252, 255, 194);
+}
